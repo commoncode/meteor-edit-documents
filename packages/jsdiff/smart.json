@@ -1,0 +1,9 @@
+{
+  "name": "jsdiff",
+  "description": "Npm jsdiff",
+  "homepage": "https://www.npmjs.org/package/diff",
+  "author": "Daryl Antony (http://daryl.io)",
+  "version": "1.0.8",
+  "git": "https://github.com/commoncode/meteor-jsdiff.git",
+  "packages": {}
+}

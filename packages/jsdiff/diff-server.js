@@ -1,0 +1,3 @@
+
+
+JsDiff = Npm.require('diff');

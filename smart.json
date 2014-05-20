@@ -1,0 +1,16 @@
+{
+  "packages": {
+    "collection-helpers": {},
+    "jsdiff": {
+      "path": "packages/jsdiff"
+    },
+    "racer": {
+      "path": "packages/racer"
+    },
+    "presence-live-caret": {
+      "git": "https://github.com/dburles/meteor-presence-live-caret.git"
+    },
+    "presence": {},
+    "sharejs": {}
+  }
+}
